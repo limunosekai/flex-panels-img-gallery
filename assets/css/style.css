@@ -40,23 +40,23 @@ body {
 }
 
 .panel1 {
-  background-image: url('/img/bg1.jpg');
+  background-image: url('../../img/bg1.jpg');
 }
 
 .panel2 {
-  background-image: url('/img/bg2.jpg');
+  background-image: url('../../img/bg2.jpg');
 }
 
 .panel3 {
-  background-image: url('/img/bg3.png');
+  background-image: url('../../img/bg3.png');
 }
 
 .panel4 {
-  background-image: url('/img/bg4.jpg');
+  background-image: url('../../img/bg4.jpg');
 }
 
 .panel5 {
-  background-image: url('/img/bg5.jpg');
+  background-image: url('../../img/bg5.jpg');
 }
 
 .panel > * {
